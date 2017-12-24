@@ -4,3 +4,4 @@ zgs change
 zgs change2
 hu2 didaye
 zgs ssh
+zgs ssh1
